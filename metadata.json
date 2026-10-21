@@ -1,0 +1,6 @@
+{
+  "name": "KineTurnos AI - Gestión de Turnos por WhatsApp",
+  "description": "Sistema inteligente de turnos por WhatsApp para consultorios kinesiológicos con asistente virtual IA, motor determinístico de agenda y panel privado para el profesional.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
